@@ -9,53 +9,44 @@ Par exemple 1 + 1 on doit renvoyer 0 et mettre une retenue, 1 + 0 on revoit 1 sa
 
 Demi-Additioneur: 
 
-![Demi-Additioneur](1.png)
+![](1.png)
 
 On en a ainsi déduit la table de vérité du demi-additionneur
 
-![Demi-Additioneur](2.png)
+![](2.png)
+![](3.png)
+
+Additionneur sur Logisim :
+
+![](4.png)
+
+Voici notre additionneur qui prend en compte une retenue donc si par exemple le chiffre 1 est égal à 1 et que la retenue aussi, cela renverra 0 avec une retenue, etc…
+
+A partir de là, on s’est dit qu’on allait faire la même chose avec la soustraction, on a donc fait un demi-soustracteur a part sur 1 bit. Cela a donné :
+
+![](5.png)
 
 aa
 
-![Demi-Additioneur](3.png)
+![](6.png)
 
 aa
 
-![Demi-Additioneur](4.png)
+![](7.png)
 
 aa
 
-![Demi-Additioneur](5.png)
+![](8.png)
 
 aa
 
-![Demi-Additioneur](6.png)
-
+![](9.png)
 aa
-
-![Demi-Additioneur](7.png)
-
+![](10.png)
 aa
-
-![Demi-Additioneur](8.png)
-
+![](11.png)
 aa
-
-![Demi-Additioneur](9.png)
-
+![](12.png)
 aa
-
-![Demi-Additioneur](10.png)
-
-aa
-
-![Demi-Additioneur](11.png)
-
-aa
-
-![Demi-Additioneur](12.png)
-
-aa
-
-![Demi-Additioneur](13.png)
+![](13.png)
 
